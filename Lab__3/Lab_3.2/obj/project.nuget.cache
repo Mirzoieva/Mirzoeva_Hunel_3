@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXG/WhEyL139JfaxH1Fvckur4rRm6geR/UJDx/JKdUtTpR8F7rRx24LfLCGRktqMFWiKzcWDSsg6LC1jCsQubA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ekate\\OneDrive\\Рабочий стол\\Лаб\\OП 2 лаб\\Lab__3\\Lab_3.2\\Lab_3.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekate\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

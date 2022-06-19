@@ -1,0 +1,31 @@
+D:\Visual Studio.term2\Lab_3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.exe
+D:\Visual Studio.term2\Lab_3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.deps.json
+D:\Visual Studio.term2\Lab_3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.runtimeconfig.json
+D:\Visual Studio.term2\Lab_3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.runtimeconfig.dev.json
+D:\Visual Studio.term2\Lab_3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.dll
+D:\Visual Studio.term2\Lab_3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.pdb
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.csproj.AssemblyReference.cache
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.AssemblyInfoInputs.cache
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.AssemblyInfo.cs
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.csproj.CoreCompileInputs.cache
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.dll
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.pdb
+D:\Visual Studio.term2\Lab_3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.genruntimeconfig.cache
+D:\Visual Studio.term2\Lab_3\Lab_3.2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.exe
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.deps.json
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.runtimeconfig.json
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.runtimeconfig.dev.json
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.dll
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\bin\Debug\netcoreapp3.1\Lab_3.2.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.AssemblyInfoInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.AssemblyInfo.cs
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.csproj.CopyComplete
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.dll
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\Лаб\OП 2 лаб\Lab__3\Lab_3.2\obj\Debug\netcoreapp3.1\Lab_3.2.genruntimeconfig.cache
